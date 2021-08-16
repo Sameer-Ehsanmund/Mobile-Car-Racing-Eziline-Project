@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,15 +19,15 @@ public class lapTimeManager : MonoBehaviour
 
     //public static float rawTime;
 
-    void Update()
+    public void Update()
     {
 
         milliSecondCount += Time.deltaTime * 10;
 
         //rawTime += Time.deltaTime;
 
-        milliSecondDisplay = milliSecondCount.ToString("F1");
-        milliSecondBox.GetComponent<Text>().text = "" + milliSecondDisplay;
+        milliSecondDisplay = milliSecondCount.ToString("F0");
+        milliSecondBox.GetComponent<TextMeshProUGUI>().text = "" + milliSecondDisplay;
 
         if (milliSecondCount >= 10)
         {
@@ -38,12 +39,12 @@ public class lapTimeManager : MonoBehaviour
         if (secondCount <= 9)
         {
 
-            secondBox.GetComponent<Text>().text = "0" + secondCount + ".";
+            secondBox.GetComponent<TextMeshProUGUI>().text = "0" + secondCount + ".";
         }
         else
         {
 
-            secondBox.GetComponent<Text>().text = "" + secondCount + ".";
+            secondBox.GetComponent<TextMeshProUGUI>().text = "" + secondCount + ".";
         }
 
         if (secondCount >= 60)
@@ -56,12 +57,12 @@ public class lapTimeManager : MonoBehaviour
         if (minuteCount <= 9)
         {
 
-            minuteBox.GetComponent<Text>().text = "0" + minuteCount + ":";
+            minuteBox.GetComponent<TextMeshProUGUI>().text = "0" + minuteCount + ":";
         }
         else
         {
 
-            minuteBox.GetComponent<Text>().text = "" + secondCount + ":";
+            minuteBox.GetComponent<TextMeshProUGUI>().text = "" + secondCount + ":";
         }
     }
 }
