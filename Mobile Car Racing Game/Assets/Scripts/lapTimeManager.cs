@@ -29,7 +29,7 @@ public class lapTimeManager : MonoBehaviour
         milliSecondDisplay = milliSecondCount.ToString("F0");
         milliSecondBox.GetComponent<TextMeshProUGUI>().text = "" + milliSecondDisplay;
 
-        if (milliSecondCount >= 10)
+        if (milliSecondCount >= 9)
         {
 
             milliSecondCount = 0;
