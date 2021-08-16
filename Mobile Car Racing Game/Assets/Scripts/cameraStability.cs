@@ -13,7 +13,7 @@ public class cameraStability : MonoBehaviour
 
     void Update()
     {
-
+        
         CarX = Car.transform.eulerAngles.x;
         CarY = Car.transform.eulerAngles.y;
         CarZ = Car.transform.eulerAngles.z;
