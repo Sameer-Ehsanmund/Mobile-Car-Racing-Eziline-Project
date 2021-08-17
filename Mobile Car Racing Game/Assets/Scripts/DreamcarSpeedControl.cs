@@ -8,10 +8,9 @@ public class DreamcarSpeedControl : MonoBehaviour
 
     public GameObject speedController;
 
-    bool speedC = false;
-    bool speedN = false;
+    bool speedC;
 
-    public void Start()
+    public void Update()
     {
         if (speedC == true)
         {
@@ -20,8 +19,7 @@ public class DreamcarSpeedControl : MonoBehaviour
             SP.m_Topspeed = 70f;
             Debug.Log(SP.m_Topspeed);
         }
-
-        if (speedN == true)
+        else
         {
 
             CarController SP = speedController.GetComponent<CarController>();
@@ -37,14 +35,13 @@ public class DreamcarSpeedControl : MonoBehaviour
         {
 
             speedC = true;
-            Start();
+            Update();
         }
-
-        if (other.gameObject.tag == "speedNormal")
+        else
         {
 
-            speedN = true;
-            Start();
+            speedC = false;
+            Update();
         }
     }
 }

@@ -26,42 +26,6 @@ public class dreamCar01Script : MonoBehaviour
                 }               
             }
         }
-
-        //if (markTracker == 0)
-        //{
-
-        //    theMarker.transform.position = mark1.transform.position;
-        //}
-
-        //if (markTracker == 1)
-        //{
-
-        //    theMarker.transform.position = mark2.transform.position;
-        //}
-
-        //if (markTracker == 2)
-        //{
-
-        //    theMarker.transform.position = mark3.transform.position;
-        //}
-
-        //if (markTracker == 3)
-        //{
-
-        //    theMarker.transform.position = mark04.transform.position;
-        //}
-
-        //if (markTracker == 4)
-        //{
-
-        //    theMarker.transform.position = mark05.transform.position;
-        //}
-
-        //if (markTracker == 5)
-        //{
-
-        //    theMarker.transform.position = mark06.transform.position;
-        //}
     }
 
     IEnumerator OnTriggerEnter(Collider collision)
@@ -74,7 +38,7 @@ public class dreamCar01Script : MonoBehaviour
 
             markTracker += 1;
 
-            if (markTracker == 28)
+            if (markTracker == 30)
             {
 
                 markTracker = 0;
