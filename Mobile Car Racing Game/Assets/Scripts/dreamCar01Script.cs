@@ -8,10 +8,6 @@ public class dreamCar01Script : MonoBehaviour
 
     public GameObject[] markers;
 
-    //public GameObject mark1;
-    //public GameObject mark2;
-    //public GameObject mark3;
-
     public int markTracker;
 
     void Update()
@@ -20,16 +16,15 @@ public class dreamCar01Script : MonoBehaviour
         foreach (GameObject marker in markers)
         {
 
-                //if (markTracker == i)
-                //{
+            for (int i = 0; i < markers.Length; i++)
+            {
 
-                    theMarker.transform.position = marker.transform.position;
-                //}
-                
-            
+                if (i == markTracker)
+                {
 
-            
-            //Debug.Log("okok");
+                    theMarker.transform.position = markers[i].transform.position;
+                }               
+            }
         }
 
         //if (markTracker == 0)
@@ -79,7 +74,7 @@ public class dreamCar01Script : MonoBehaviour
 
             markTracker += 1;
 
-            if (markTracker == 3)
+            if (markTracker == 28)
             {
 
                 markTracker = 0;

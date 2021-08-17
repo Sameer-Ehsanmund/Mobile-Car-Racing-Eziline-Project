@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Dreamcar01
+  - speedControl
+  - DreamCar1
+  - speedNormal
   layers:
   - Default
   - TransparentFX
