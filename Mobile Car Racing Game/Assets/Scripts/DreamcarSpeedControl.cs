@@ -17,14 +17,14 @@ public class DreamcarSpeedControl : MonoBehaviour
 
             CarController SP = speedController.GetComponent<CarController>();
             SP.m_Topspeed = 70f;
-            Debug.Log(SP.m_Topspeed);
+            //Debug.Log(SP.m_Topspeed);
         }
         else
         {
 
             CarController SP = speedController.GetComponent<CarController>();
             SP.m_Topspeed = 140f;
-            Debug.Log(SP.m_Topspeed);
+            //Debug.Log(SP.m_Topspeed);
         }
     }
 
