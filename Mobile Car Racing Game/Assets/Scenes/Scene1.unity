@@ -1490,11 +1490,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 100064, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
   m_PrefabInstance: {fileID: 998610198}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &635576802 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400064, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
-  m_PrefabInstance: {fileID: 998610198}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &686669434
 GameObject:
   m_ObjectHideFlags: 0
@@ -2833,13 +2828,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.06502015, y: 0.04419321, z: 0.0028823817, w: 0.99690074}
-  m_LocalPosition: {x: -0.864, y: 5.916, z: -12.954}
+  m_LocalPosition: {x: -0.09, y: 3.56, z: -12.93}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1214051100}
   - {fileID: 930875326}
-  m_Father: {fileID: 635576802}
-  m_RootOrder: 6
+  m_Father: {fileID: 1349474171}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 7.434, y: 5.12, z: 0.664}
 --- !u!1 &966221791
 GameObject:
@@ -3116,6 +3111,10 @@ PrefabInstance:
       propertyPath: m_Target
       value: 
       objectReference: {fileID: 817703865}
+    - target: {fileID: 11400022, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 11400022, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
       propertyPath: m_BrakeCondition
       value: 2
@@ -3796,7 +3795,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 2.32, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 963194228}
   m_Father: {fileID: 1504147027}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4043,6 +4043,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carControl: {fileID: 1781719473}
+  Dreamcar01: {fileID: 635576797}
 --- !u!4 &1418517224
 Transform:
   m_ObjectHideFlags: 0
