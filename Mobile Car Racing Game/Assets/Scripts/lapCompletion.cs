@@ -66,9 +66,9 @@ public class lapCompletion : MonoBehaviour
 
         millSecondDisplay.GetComponent<TextMeshProUGUI>().text = "" + (int)lapTimeManager.milliSecondCount;
 
-        //PlayerPrefs.SetInt("MinuteSave", lapTimeManager.minuteCount);
-        //PlayerPrefs.SetInt("SecondSave", lapTimeManager.secondCount);
-        //PlayerPrefs.SetFloat("MilliSecondSave", lapTimeManager.milliSecondCount);
+        PlayerPrefs.SetInt("MinuteSave", lapTimeManager.minuteCount);
+        PlayerPrefs.SetInt("SecondSave", lapTimeManager.secondCount);
+        PlayerPrefs.SetFloat("MilliSecondSave", lapTimeManager.milliSecondCount);
         //PlayerPrefs.SetFloat("rawTime", lapTimeManager.rawTime);
 
         lapTimeManager.minuteCount = 0;
