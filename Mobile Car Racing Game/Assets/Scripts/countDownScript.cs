@@ -13,7 +13,7 @@ public class countDownScript : MonoBehaviour
     public GameObject lapTimer;
     public GameObject carControls;
 
-    //public AudioSource levelMusic;
+    public AudioSource levelMusic;
 
     void Start()
     {
@@ -43,7 +43,7 @@ public class countDownScript : MonoBehaviour
         yield return new WaitForSeconds(1);
         countDown.SetActive(false);
         goAudio.Play();
-        //levelMusic.Play();
+        levelMusic.Play();
 
         lapTimer.SetActive(true);
         carControls.SetActive(true);
