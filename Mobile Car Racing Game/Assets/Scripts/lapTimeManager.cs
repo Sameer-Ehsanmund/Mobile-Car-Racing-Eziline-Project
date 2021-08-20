@@ -16,14 +16,13 @@ public class lapTimeManager : MonoBehaviour
     public GameObject secondBox;
     public GameObject milliSecondBox;
 
-    //public static float rawTime;
+    public static float rawTime;
 
     public void Update()
     {
 
         milliSecondCount += Time.deltaTime * 10;
-
-        //rawTime += Time.deltaTime;
+        rawTime += Time.deltaTime;
 
         milliSecondDisplay = milliSecondCount.ToString("F0");
         milliSecondBox.GetComponent<TextMeshProUGUI>().text = "" + milliSecondDisplay;

@@ -14,10 +14,10 @@ public class lapCompletion : MonoBehaviour
 
     public GameObject lapTimeBox;
 
-    //public GameObject lapCounter;
-    //public int lapsDone;
+    public GameObject lapCounter;
+    public int lapsDone;
 
-    //public float rawTime;
+    public float rawTime;
 
     //public GameObject raceFinish;
 
@@ -34,12 +34,12 @@ public class lapCompletion : MonoBehaviour
     void OnTriggerEnter()
     {
 
-        //lapsDone += 1;
+        lapsDone += 1;
 
-        //rawTime = PlayerPrefs.GetFloat("rawTime");
+        rawTime = PlayerPrefs.GetFloat("rawTime");
 
-        //if (lapTimeManager.rawTime <= rawTime)
-        //{
+        if (lapTimeManager.rawTime <= rawTime)
+        {
 
             if (lapTimeManager.secondCount <= 9)
             {
@@ -62,21 +62,22 @@ public class lapCompletion : MonoBehaviour
 
                 minuteDisplay.GetComponent<TextMeshProUGUI>().text = "" + lapTimeManager.minuteCount + ".";
             }
-        //}
 
-        millSecondDisplay.GetComponent<TextMeshProUGUI>().text = "" + (int)lapTimeManager.milliSecondCount;
+            millSecondDisplay.GetComponent<TextMeshProUGUI>().text = "" + (int)lapTimeManager.milliSecondCount;
+        }
 
         PlayerPrefs.SetInt("MinuteSave", lapTimeManager.minuteCount);
         PlayerPrefs.SetInt("SecondSave", lapTimeManager.secondCount);
         PlayerPrefs.SetFloat("MilliSecondSave", lapTimeManager.milliSecondCount);
-        //PlayerPrefs.SetFloat("rawTime", lapTimeManager.rawTime);
+        PlayerPrefs.SetFloat("rawTime", lapTimeManager.rawTime);
 
         lapTimeManager.minuteCount = 0;
         lapTimeManager.secondCount = 0;
         lapTimeManager.milliSecondCount = 0;
-        //lapTimeManager.rawTime = 0;
+        lapTimeManager.rawTime = 0;
 
-        //lapCounter.GetComponent<Text>().text = "" + lapsDone;
+        lapCounter.GetComponent<TextMeshProUGUI>().text = "" + lapsDone;
+        //Debug.Log(lapsDone);
 
         halfLapTrigger.SetActive(true);
         completeLapTrigger.SetActive(false);
