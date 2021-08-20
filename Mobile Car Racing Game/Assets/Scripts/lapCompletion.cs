@@ -19,17 +19,18 @@ public class lapCompletion : MonoBehaviour
 
     public float rawTime;
 
-    //public GameObject raceFinish;
+    public GameObject raceFinish;
 
-    //void Update()
-    //{
+    void Update()
+    {
 
-    //    if (lapsDone == 2)
-    //    {
+        if (lapsDone == 2)
+        {
 
-    //        raceFinish.SetActive(true);
-    //    }
-    //}
+            raceFinish.SetActive(true);
+            //Debug.Log("2");
+        }
+    }
 
     void OnTriggerEnter()
     {
