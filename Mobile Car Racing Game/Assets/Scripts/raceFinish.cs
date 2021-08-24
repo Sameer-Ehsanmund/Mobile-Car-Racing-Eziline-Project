@@ -16,35 +16,21 @@ public class raceFinish : MonoBehaviour
     void OnTriggerEnter()
     {
 
-        //if (modeTime.isTimeMode == true)
-        //{
+                this.GetComponent<BoxCollider>().enabled = false;
 
+                theCar.SetActive(false);
+                completeTrigger.SetActive(false);
 
-        //}
-        //else
-        //{
+                CarController SP = theCar.GetComponent<CarController>();
+                SP.m_Topspeed = 0.0f;
 
-            this.GetComponent<BoxCollider>().enabled = false;
+                theCar.GetComponent<CarController>().enabled = false;
+                theCar.GetComponent<CarUserControl>().enabled = false;
 
-            theCar.SetActive(false);
-            completeTrigger.SetActive(false);
+                theCar.SetActive(true);
+                finishCamera.SetActive(true);
 
-            CarController SP = theCar.GetComponent<CarController>();
-            SP.m_Topspeed = 0.0f;
-
-            theCar.GetComponent<CarController>().enabled = false;
-            theCar.GetComponent<CarUserControl>().enabled = false;
-
-            theCar.SetActive(true);
-            finishCamera.SetActive(true);
-
-            levelMusic.SetActive(false);
-            viewModes.SetActive(false);
-
-            //levelMusic.Play();
-
-            //globalCash.totalCash += 100;
-            //PlayerPrefs.SetInt("SavedCash", globalCash.totalCash);
-        //}
+                levelMusic.SetActive(false);
+                viewModes.SetActive(false);
     }
 }

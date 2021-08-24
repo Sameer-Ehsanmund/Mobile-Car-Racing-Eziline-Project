@@ -8,6 +8,7 @@ TagManager:
   - speedControl
   - DreamCar1
   - speedNormal
+  - carPos
   layers:
   - Default
   - TransparentFX
