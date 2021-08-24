@@ -12,25 +12,12 @@ public class lapCompletion : MonoBehaviour
     public GameObject secondDisplay;
     public GameObject millSecondDisplay;
 
-    public GameObject lapTimeBox;
-
     public GameObject lapCounter;
     public int lapsDone;
 
     public float rawTime;
 
     public GameObject raceFinish;
-
-    void Update()
-    {
-
-        if (lapsDone == 2)
-        {
-
-            raceFinish.SetActive(true);
-            //Debug.Log("2");
-        }
-    }
 
     void OnTriggerEnter()
     {
@@ -82,5 +69,12 @@ public class lapCompletion : MonoBehaviour
 
         halfLapTrigger.SetActive(true);
         completeLapTrigger.SetActive(false);
+
+        if (lapsDone == 2)
+        {
+            halfLapTrigger.SetActive(false);
+            raceFinish.SetActive(true);
+            Debug.Log("2");
+        }
     }
 }
