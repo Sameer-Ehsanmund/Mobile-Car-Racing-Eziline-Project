@@ -11489,7 +11489,7 @@ GameObject:
   - component: {fileID: 1493474401}
   m_Layer: 5
   m_Name: forwardMovingButton
-  m_TagString: Untagged
+  m_TagString: FB
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

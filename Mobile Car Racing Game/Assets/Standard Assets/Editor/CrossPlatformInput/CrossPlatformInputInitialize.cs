@@ -54,7 +54,7 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
             return !defines.Contains("MOBILE_INPUT");
         }
 
-
+        
         [MenuItem("Mobile Input/Disable")]
         private static void Disable()
         {

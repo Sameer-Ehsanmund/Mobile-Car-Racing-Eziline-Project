@@ -1,10 +1,6 @@
 using System;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
-using UnityStandardAssets.Vehicles.Car;
-using SimpleInputNamespace;
-using UnityEngine.UI;
-
 
 namespace UnityStandardAssets.Vehicles.Car
 {
@@ -14,20 +10,17 @@ namespace UnityStandardAssets.Vehicles.Car
         private CarController m_Car; // the car controller we want to use
 
         private int input;
-
-        public GameObject CarControl;
-
-        public GameObject forwardBut;
-
         
-
+        public GameObject CarControl;
+        //Forward 
+        public GameObject forwardBut;
+        
         public void Start()
         {
             CarControl.GetComponent<CarController>().enabled = true;
 
-            //Forward FB = forwardBut.GetComponent<Forward>();
-            //forwardBut = GameObject.Find("forwardMovingButton").GetComponent<forwardButton>();
-
+           // Forward fb = forwardBut.GetComponent<Forward>();
+           // forwardBut = GameObject.FindGameObjectWithTag("forwardmovingbutton").GetComponent<Forward>();
             
         }
 
