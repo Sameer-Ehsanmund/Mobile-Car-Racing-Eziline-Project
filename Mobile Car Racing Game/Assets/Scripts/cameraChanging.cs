@@ -10,25 +10,42 @@ public class cameraChanging : MonoBehaviour
 
     public int cameraMode;
 
-    void Update()
+    //void Update()
+    //{
+
+    //    if (Input.GetButtonDown("ViewMode"))
+    //    {
+
+    //        if (cameraMode == 2)
+    //        {
+
+    //            cameraMode = 0;
+    //        }
+    //        else
+    //        {
+
+    //            cameraMode += 1;
+    //        }
+
+    //        StartCoroutine(modeChange());
+    //    }
+    //}
+
+    public void onCameraChange()
     {
 
-        if (Input.GetButtonDown("ViewMode"))
+        if (cameraMode == 2)
         {
 
-            if (cameraMode == 2)
-            {
-
-                cameraMode = 0;
-            }
-            else
-            {
-
-                cameraMode += 1;
-            }
-
-            StartCoroutine(modeChange());
+            cameraMode = 0;
         }
+        else
+        {
+
+            cameraMode += 1;
+        }
+
+        StartCoroutine(modeChange());
     }
 
     IEnumerator modeChange()
