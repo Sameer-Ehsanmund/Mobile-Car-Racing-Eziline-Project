@@ -12,16 +12,18 @@ namespace UnityStandardAssets.Vehicles.Car
         private int input;
         
         public GameObject CarControl;
-        //Forward 
         public GameObject forwardBut;
-        
+        public GameObject backwardBut;
+
         public void Start()
         {
             CarControl.GetComponent<CarController>().enabled = true;
 
-           // Forward fb = forwardBut.GetComponent<Forward>();
-           // forwardBut = GameObject.FindGameObjectWithTag("forwardmovingbutton").GetComponent<Forward>();
-            
+            Forward fb = forwardBut.GetComponent<Forward>();
+            Backward bb = backwardBut.GetComponent<Backward>();
+
+            Forward.instance.SetPlayer(this.gameObject);
+            Backward.instance.SetPlayer(this.gameObject);
         }
 
         private void Awake()
