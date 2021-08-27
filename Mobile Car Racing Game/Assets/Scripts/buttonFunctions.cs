@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 public class buttonFunctions : MonoBehaviour
 {
 
-    public void startGame()
+    public void onRandomGame()
     {
 
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 
     public void selectTrack()
