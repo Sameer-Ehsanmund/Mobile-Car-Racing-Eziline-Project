@@ -24,12 +24,6 @@ public class buttonFunctions : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
-    //public void track2Selection()
-    //{
-
-    //    SceneManager.LoadScene(3);
-    //}
-
     public void quitGame()
     {
 
