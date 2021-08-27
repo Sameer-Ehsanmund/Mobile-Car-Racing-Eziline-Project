@@ -35,4 +35,10 @@ public class buttonFunctions : MonoBehaviour
 
         SceneManager.LoadScene(0);
     }
+
+    public void onCredits()
+    {
+
+        SceneManager.LoadScene(4);
+    }
 }

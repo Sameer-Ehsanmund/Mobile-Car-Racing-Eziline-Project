@@ -70,11 +70,12 @@ public class lapCompletion : MonoBehaviour
         halfLapTrigger.SetActive(true);
         completeLapTrigger.SetActive(false);
 
-        if (lapsDone == 2)
+        if (lapsDone == 3)
         {
+            lapCounter.GetComponent<TextMeshProUGUI>().text = "2";
             halfLapTrigger.SetActive(false);
             raceFinish.SetActive(true);
-            Debug.Log("2");
+            //Debug.Log("2");
         }
     }
 }

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.5826142, g: 0.3885287, b: 0.60909903, a: 1}
+  m_IndirectSpecularColor: {r: 0.58237034, g: 0.38836545, b: 0.60885406, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1097,7 +1097,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &781927147
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1474,7 +1474,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2104442530}
         m_TargetAssemblyTypeName: buttonFunctions, Assembly-CSharp
-        m_MethodName: quitGame
+        m_MethodName: onCredits
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
