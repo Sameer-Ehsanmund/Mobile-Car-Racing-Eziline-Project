@@ -580,3 +580,4 @@ Received Import Request.
   path: Assets/Scenes/track02.unity
   artifactKey: Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/track02.unity using Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027468d8523eafa1f3e8765ce2a8d96c') in 0.021132 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
