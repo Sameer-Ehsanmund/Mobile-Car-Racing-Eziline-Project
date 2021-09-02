@@ -10,6 +10,7 @@ TagManager:
   - speedNormal
   - carPos
   - FB
+  - Dreamcar02
   layers:
   - Default
   - TransparentFX
