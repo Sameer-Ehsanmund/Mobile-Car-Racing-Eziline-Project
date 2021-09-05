@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class track6Tracker2Script : MonoBehaviour
+public class track7TrackerScript2 : MonoBehaviour
 {
     public GameObject theMarker;
 
@@ -31,14 +31,14 @@ public class track6Tracker2Script : MonoBehaviour
     IEnumerator OnTriggerEnter(Collider collision)
     {
 
-        if (collision.gameObject.tag == "Dreamcar01")
+        if (collision.gameObject.tag == "Dreamcar03")
         {
 
             this.GetComponent<BoxCollider>().enabled = false;
 
             markTracker += 1;
 
-            if (markTracker == 23)
+            if (markTracker == 11)
             {
 
                 markTracker = 0;
