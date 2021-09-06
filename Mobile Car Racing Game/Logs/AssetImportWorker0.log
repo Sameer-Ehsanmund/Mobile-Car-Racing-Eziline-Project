@@ -408,3 +408,10 @@ Received Import Request.
 Start importing Assets/New Terrain 11.asset using Guid(da5f381936759cd49802924178ac89dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree LPW_Tree_A1_6.5m_01 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
 
  -> (artifact id: '0e5341ccb6981577ab99fd8764131378') in 0.152931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.286896 seconds.
+  path: Assets/Scenes/track08.unity
+  artifactKey: Guid(e1db99a224d6a7b4fa97d3d447794818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track08.unity using Guid(e1db99a224d6a7b4fa97d3d447794818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6da928c2597e9e854e77970cbb9d940') in 0.047043 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
