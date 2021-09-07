@@ -4313,7 +4313,7 @@ PrefabInstance:
     - target: {fileID: 2300020, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 2f2de8bc4499ba347871fa6d2791362d, type: 2}
+      objectReference: {fileID: 2100000, guid: 1eb7006673948cb41ac8ac4475979ad6, type: 2}
     - target: {fileID: 6500004, guid: 0fb4610dba67fc24cb2a6674fb155fc1, type: 3}
       propertyPath: m_IsTrigger
       value: 1
