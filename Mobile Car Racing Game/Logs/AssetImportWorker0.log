@@ -472,3 +472,280 @@ Received Import Request.
   path: Assets/race-track-lake/Materials/cable-black.mat
   artifactKey: Guid(d2ca2cdd71d6d1c4ba1373f41eccfa6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/race-track-lake/Materials/cable-black.mat using Guid(d2ca2cdd71d6d1c4ba1373f41eccfa6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb513c55a2ec18c8fee1740a72466071') in 0.053336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 614.816098 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D
+  artifactKey: Guid(828f7379faffd7a4ab66578887872445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D using Guid(828f7379faffd7a4ab66578887872445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf98dd74e9511ecccbe6e1a85ec73023') in 0.120523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.632010 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D
+  artifactKey: Guid(4ec57be40a228bf45adcaf3863cc37cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D using Guid(4ec57be40a228bf45adcaf3863cc37cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4661649e1e364faeaae2ae62f3183e') in 0.016777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.127264 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials
+  artifactKey: Guid(7c2bbe16d7006c345a5de867ec22a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials using Guid(7c2bbe16d7006c345a5de867ec22a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f44345ada41e73f23edaf3da8a037c') in 0.003450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DBush01.mat
+  artifactKey: Guid(b02f133bd11ef984f9db550c0fe99589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DBush01.mat using Guid(b02f133bd11ef984f9db550c0fe99589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085087b064038f904df3088377776439') in 0.055702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DTree04.mat
+  artifactKey: Guid(8d0dfd7d2e5bfee4daf2f20725c8888f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DTree04.mat using Guid(8d0dfd7d2e5bfee4daf2f20725c8888f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91cd77a0172ffb4142bc5c7d04f9d145') in 0.100120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DMushroom01.mat
+  artifactKey: Guid(93a9e1ea740cc1144a19982ab71adb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DMushroom01.mat using Guid(93a9e1ea740cc1144a19982ab71adb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2a2e66d03f7ddd4f305d3176a7b6f3') in 0.047877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DTree02.mat
+  artifactKey: Guid(d48595f93c035b547b09cafc13a32222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Textures2D/Materials/2DTree02.mat using Guid(d48595f93c035b547b09cafc13a32222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd485cc172928b6abccedf647f4ada045') in 0.080714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 118.785262 seconds.
+  path: Assets/New Terrain 4.asset
+  artifactKey: Guid(b592a833c686bfd4e86ec5dd9c14f017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 4.asset using Guid(b592a833c686bfd4e86ec5dd9c14f017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9867a338428c753908e7ff42fb305b89') in 0.044963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.431760 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D
+  artifactKey: Guid(ed17fd41d4fb61f4f9d79b0e1317afe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D using Guid(ed17fd41d4fb61f4f9d79b0e1317afe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd08c5b5a350033ed196a5a4f06a298c') in 0.080478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush03.mat
+  artifactKey: Guid(dac3dd945c6a7b54eab3829e522ba1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush03.mat using Guid(dac3dd945c6a7b54eab3829e522ba1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3dee7bd949d58e9c65fd90c99c8e5b') in 0.184403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree02.mat
+  artifactKey: Guid(428ced9a8e5245844bf37811036a70df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree02.mat using Guid(428ced9a8e5245844bf37811036a70df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd530c607caee3f73353c48a11a4931') in 0.072495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000792 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush04.mat
+  artifactKey: Guid(57bcea76acb1ef24db0b66496eb8fb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush04.mat using Guid(57bcea76acb1ef24db0b66496eb8fb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6416bd2dbc239db781d01335a470e65') in 0.055326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000784 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree06.mat
+  artifactKey: Guid(bb0ddfa221f2f7140ac4247fe99e1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree06.mat using Guid(bb0ddfa221f2f7140ac4247fe99e1709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154a2571b1d54c8d21e671c45920c7d5') in 0.136620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree03.mat
+  artifactKey: Guid(dc62f55c299011740b6a7907f439a89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree03.mat using Guid(dc62f55c299011740b6a7907f439a89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad1715b6b203739d527b65ff3c25b0f') in 0.133533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock02.mat
+  artifactKey: Guid(c17b7902d1a7e3d40bfe9cba56db496f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock02.mat using Guid(c17b7902d1a7e3d40bfe9cba56db496f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7fb02cc5791cf50640aa03fe0c09f3') in 0.100573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock01.mat
+  artifactKey: Guid(b75b2e46d26920f4095155e8619952fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock01.mat using Guid(b75b2e46d26920f4095155e8619952fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be9e7fa1a9d60c88091eaa17177aaac') in 0.163968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush01.mat
+  artifactKey: Guid(0662d5af43a4ce54c983a22c8c94f1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush01.mat using Guid(0662d5af43a4ce54c983a22c8c94f1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cbc4d0d789922232ecf66f74da90514') in 0.069394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush02.mat
+  artifactKey: Guid(bf3ad7ced2467124195ebebdf178fceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DBush02.mat using Guid(bf3ad7ced2467124195ebebdf178fceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20cbd4883b708b8873ce3a1ed32b9b5d') in 0.067149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree04.mat
+  artifactKey: Guid(a49481fe944d2a745a7fdd97c41c7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree04.mat using Guid(a49481fe944d2a745a7fdd97c41c7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f62cbf131d906891d2eb804a2bf274') in 0.065898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree01.mat
+  artifactKey: Guid(6bcd66bd843e2ef4ca5a5f412efe2ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree01.mat using Guid(6bcd66bd843e2ef4ca5a5f412efe2ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fdb52c629bbbeab988ab0ebd9402e3') in 0.110545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock03.mat
+  artifactKey: Guid(027c131524666ab49806a4ccee33ed63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DRock03.mat using Guid(027c131524666ab49806a4ccee33ed63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe8f2177c226965b7917dd37956e4eb') in 0.086463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000719 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DMushroom01.mat
+  artifactKey: Guid(b5e0d975642c31441b06228ca4f50680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DMushroom01.mat using Guid(b5e0d975642c31441b06228ca4f50680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea07fbab6f6beb1267ea39b6ee1eb04') in 0.056911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree05.mat
+  artifactKey: Guid(e9dd26e735276fb47b69170f1dd7c4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Sources2D/Materials2D/2DTree05.mat using Guid(e9dd26e735276fb47b69170f1dd7c4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eba4bb5b00abd9e49c1e3fc996a92d') in 0.129527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 182.572812 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b4cbde9565bf190136f1148817e1ea') in 0.015963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 108.932809 seconds.
+  path: Assets/Scenes/track00.unity
+  artifactKey: Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track00.unity using Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ad1a42ee73c9334ded2174a8c5e5bb') in 0.015359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.729806 seconds.
+  path: Assets/Scenes/track0.unity
+  artifactKey: Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track0.unity using Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e171fd32e1914d4525e45ca037668212') in 0.048744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.656751 seconds.
+  path: Assets/Scenes/track01.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track01.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919308ae5102a9d4ea60d8cad093cf6a') in 0.050370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.757516 seconds.
+  path: Assets/Scenes/track1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76507c0b5876f32c85d625c8346096c') in 0.012191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.646594 seconds.
+  path: Assets/Scenes/track03.unity
+  artifactKey: Guid(d6eeb19c24a54d14d8dbdff4e58a2ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track03.unity using Guid(d6eeb19c24a54d14d8dbdff4e58a2ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df3019bbb9188daf5407458b4372251') in 0.051927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.562098 seconds.
+  path: Assets/Scenes/track2.unity
+  artifactKey: Guid(38c479c7c5324a44882efb3e9fe5ded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track2.unity using Guid(38c479c7c5324a44882efb3e9fe5ded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2515dcdb7c3a15fa9389930b44e6fdb0') in 0.016915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.603694 seconds.
+  path: Assets/Scenes/track3.unity
+  artifactKey: Guid(d6eeb19c24a54d14d8dbdff4e58a2ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track3.unity using Guid(d6eeb19c24a54d14d8dbdff4e58a2ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24028e0064b93b1447be7a6e4ae410c') in 0.013988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.698762 seconds.
+  path: Assets/Scenes/track04.unity
+  artifactKey: Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track04.unity using Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af960954aba1370e8a660fab9f39da1') in 0.015390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.895539 seconds.
+  path: Assets/Scenes/track4.unity
+  artifactKey: Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track4.unity using Guid(9a0c5b8bbab66bd4896448a02cb97d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb34ee8c7f7255e3a171bb1957b0bec') in 0.017693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.082260 seconds.
+  path: Assets/Scenes/track05.unity
+  artifactKey: Guid(cc4d52c173991a0499a75f727cee56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track05.unity using Guid(cc4d52c173991a0499a75f727cee56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b71f7ebcb56f976507b92914b84a4f') in 0.015109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.192239 seconds.
+  path: Assets/Scenes/track10.unity
+  artifactKey: Guid(e1db99a224d6a7b4fa97d3d447794818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track10.unity using Guid(e1db99a224d6a7b4fa97d3d447794818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bdc79c4a852b6c91e156e8072e943c') in 0.015265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.833751 seconds.
+  path: Assets/Scenes/track9.unity
+  artifactKey: Guid(69bb99040dea9ea4b8b7b532a0b14308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track9.unity using Guid(69bb99040dea9ea4b8b7b532a0b14308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88c754e54c4bbd72b70c8eabd80b151') in 0.016459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.532768 seconds.
+  path: Assets/Scenes/track8.unity
+  artifactKey: Guid(8aa45f771bace4d429f173ba735ff1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track8.unity using Guid(8aa45f771bace4d429f173ba735ff1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64b72904331baec76951daf6130c07f') in 0.015118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.878361 seconds.
+  path: Assets/Scenes/track7.unity
+  artifactKey: Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track7.unity using Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c09c2929e99b372dcee6f3b365a8189') in 0.018201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.160681 seconds.
+  path: Assets/Scenes/track5.unity
+  artifactKey: Guid(cc4d52c173991a0499a75f727cee56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track5.unity using Guid(cc4d52c173991a0499a75f727cee56a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8574ada74afe09f6faaa8da441acbc3b') in 0.015136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 264.620666 seconds.
+  path: Assets/Scenes/track6.unity
+  artifactKey: Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track6.unity using Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c00e2438b5b3e911b6ef10c58390a6') in 0.017873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.048991 seconds.
+  path: Assets/Scenes/trac08.unity
+  artifactKey: Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/trac08.unity using Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65bef3b47e6b42da12c7714f8509138') in 0.015896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.767098 seconds.
+  path: Assets/Scenes/track7.unity
+  artifactKey: Guid(8aa45f771bace4d429f173ba735ff1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track7.unity using Guid(8aa45f771bace4d429f173ba735ff1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62231be55925c58912df07392007ef77') in 0.004201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.816012 seconds.
+  path: Assets/Scenes/track8.unity
+  artifactKey: Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track8.unity using Guid(71d8b4f5bfa5fed41a88a2d64a3a567d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8149a35a14b35ee8ac89cc86baedfdf') in 0.006532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.361585 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GrassColorLowPolyNormal3d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(598fd3ebcb07bc848938d7be5e0cd90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GrassColorLowPolyNormal3d3aba195e4d26ee.terrainlayer using Guid(598fd3ebcb07bc848938d7be5e0cd90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2c41ff0902435c0b8fdf778021b8d9') in 0.152062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 192.565026 seconds.
+  path: Assets/Scenes/track6.unity
+  artifactKey: Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track6.unity using Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce93ef9764aa289ff038e7a1ed0ccde5') in 0.007331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 771.093431 seconds.
+  path: Assets/Scenes/track6.unity
+  artifactKey: Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/track6.unity using Guid(475696b3699100b408b5e3145acb45d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '687d32d0c73acf274c7489894c44e549') in 0.006267 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
